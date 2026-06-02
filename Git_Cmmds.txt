@@ -14,5 +14,4 @@ This commne tis from master Branch
 This commnet is from maiin Branch
 
 
-
-//Pushing this commnad to master branch
+//Pushing this command to master
