@@ -5,7 +5,9 @@ git commit -m"Message"
 git restore "filename"
 git remote add origin "https:/gitUSename/GitHub.git"
 git branch -M main   
-git push -u origin main
+git push -u origin main  //-u is for setting this brach in upstram
+
+git branch --set-upstream-to=origin/master
 
 
 
